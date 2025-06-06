@@ -1,3 +1,6 @@
+clone the website 
+"git clone https://github.com/Pnsheethal/Brain-Tumor-Detection.git" 
+
 Download the Zip File and Extract it
 
 Download the DataFile.py and DetectionFile.py
